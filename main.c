@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "include/stdextended.h"
-#include <a.out.h>
-
 
 int main()
 {
