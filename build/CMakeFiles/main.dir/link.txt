@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/src/stdextended.c.o -o main 

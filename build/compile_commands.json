@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/bytec/Projects/C/c-extended/build",
+  "command": "/usr/bin/gcc  -I/home/bytec/Projects/C/c-extended/Include -g -o CMakeFiles/main.dir/main.c.o -c /home/bytec/Projects/C/c-extended/main.c",
+  "file": "/home/bytec/Projects/C/c-extended/main.c",
+  "output": "CMakeFiles/main.dir/main.c.o"
+},
+{
+  "directory": "/home/bytec/Projects/C/c-extended/build",
+  "command": "/usr/bin/gcc  -I/home/bytec/Projects/C/c-extended/Include -g -o CMakeFiles/main.dir/src/stdextended.c.o -c /home/bytec/Projects/C/c-extended/src/stdextended.c",
+  "file": "/home/bytec/Projects/C/c-extended/src/stdextended.c",
+  "output": "CMakeFiles/main.dir/src/stdextended.c.o"
+}
+]

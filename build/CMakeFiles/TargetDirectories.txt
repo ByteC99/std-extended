@@ -1,0 +1,3 @@
+/home/bytec/Projects/C/c-extended/build/CMakeFiles/main.dir
+/home/bytec/Projects/C/c-extended/build/CMakeFiles/edit_cache.dir
+/home/bytec/Projects/C/c-extended/build/CMakeFiles/rebuild_cache.dir
